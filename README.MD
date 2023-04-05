@@ -24,3 +24,6 @@ VGG16.ipynb - Implementation of VGG16 model (Variation of CNN architecture)
 ### Live Test-->
 Recognize-Predict.ipynb - Used to predict Sign Language on live video feed
 
+### Image with Live Demo:
+
+![image](https://user-images.githubusercontent.com/40302495/230236381-72ac1afc-c02c-4ed2-9bbe-63247fb0c5ee.png)
